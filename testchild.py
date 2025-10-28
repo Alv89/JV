@@ -1,1 +1,3 @@
-# New file in the new children branch
+# Add file to child branch
+@@ -0,0 +1,2 @@
+print("inside child branch")
